@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    color:white;
+    background-image: url(indir.jpg);
+    background-size: cover;
+    font-weight: bold;
+    border: none;
+    padding: 5px;
+}
+h1{
+    color: goldenrod;
+}
+button{
+    color: green;
+    font-weight: bold;
+    margin: 3px;
+    width: 150px;
+    border-radius: 3px;
+    border: none;
+    padding: 2px;
+    background: goldenrod;
+}
+#round-el{
+    font-style: italic;
+    
+}
